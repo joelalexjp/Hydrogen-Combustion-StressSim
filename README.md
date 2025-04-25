@@ -27,4 +27,4 @@ To simulate thermal and pressure stress in a hydrogen internal combustion engine
 
 Joel P. Alex\
 M.Sc. Commercial Vehicle Technology, RPTU Kaiserslautern\
-LinkedIn: [linkedin.com/in/joelpalex](https://linkedin.com/in/joelpalex)
+LinkedIn:https://www.linkedin.com/in/joel-p-alex-b40976147/
